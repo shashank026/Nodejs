@@ -1,19 +1,15 @@
-{
-    "users":[
+[
     {
-    "username":"adya",
-    "password" : "adya123"
+        "username":"adya",
+        "password":"adya123"
     },
     {
         "username":"sam",
-        "password" : "samridhi234"
-
+        "password":"sam234"
     },
     {
         "username":"shashank",
-        "password" :"shashank026"
+        "password":"shashank026"
     }
-]
 
-    
-}
+]
